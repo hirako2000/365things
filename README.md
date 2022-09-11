@@ -19,12 +19,12 @@
   <h3 align="center">365 things</h3>
 
   <p align="center">
-    365 (rolling) things
+    Let's (scr)Roll
     <br />
     <a href="https://github.com/hirako2000/365things/#about"><strong>Explore »</strong></a>
     <br />
     <br />
-    <a href="https://365things.surge.sh">View Sketches</a>
+    <a href="https://365things.netlify.app">View Live</a>
     ::
     <a href="https://github.com/hirako2000/365things/issues">Report Bug</a>
     ::
@@ -63,7 +63,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About
 
-[![Product Name Screen Shot][product-screenshot]](https://365things.surge.sh)
+[![Product Name Screen Shot][product-screenshot]](https://365things.netlify.app)
 
 A challlenge project to push interesting content, every day, for 365 days.
 
@@ -102,7 +102,7 @@ It generates all asserts
 #### Host / Deploy
 
 Deploy as a static site 
-There are free hosting services out there, e.g  [surge.sh](https://surge.sh), or [Netlify](https://www.netlify.com/).
+There are free hosting services out there, e.g  [netlify.app](https://netlify.app), or [Netlify](https://www.netlify.com/).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -170,9 +170,9 @@ Coming soon
 
 Coming soon
 
-[observatory-shield]: https://img.shields.io/mozilla-observatory/grade-score/365things.surge.sh?publish&style=for-the-badge
+[observatory-shield]: https://img.shields.io/mozilla-observatory/grade-score/365things.netlify.app?publish&style=for-the-badge
 [uptime-shield]: https://img.shields.io/uptimerobot/ratio/m792462927-d88b9d2ebd47a1c7ccdf9763?style=for-the-badge
-[uptime-url]: https://365things.surge.sh
+[uptime-url]: https://365things.netlify.app
 [contributors-shield]: https://img.shields.io/github/contributors/hirako2000/365things.svg?style=for-the-badge
 [contributors-url]: https://github.com/hirako2000/365things/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/hirako2000/365things.svg?style=for-the-badge
@@ -183,13 +183,13 @@ Coming soon
 [issues-url]: https://github.com/hirako2000/365things/issues
 [license-shield]: https://img.shields.io/github/license/hirako2000/365things.svg?style=for-the-badge
 [license-url]: https://github.com/hirako2000/365things/blob/main/LICENSE.txt
-[w3c-validation-shield]: https://img.shields.io/w3c-validation/html?style=for-the-badge&targetUrl=https%3A%2F%2F365things.surge.sh
-[w3c-validation-url]: https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2F365things.surge.sh&profile=css3svg&usermedium=all
+[w3c-validation-shield]: https://img.shields.io/w3c-validation/html?style=for-the-badge&targetUrl=https%3A%2F%2F365things.netlify.app
+[w3c-validation-url]: https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2F365things.netlify.app&profile=css3svg&usermedium=all
 
 [score-shield]: https://img.shields.io/ossf-scorecard/github.com/hirako2000/365things?style=for-the-badge
-[score-url]: https://github.com/hirako2000/365things.surge.sh
+[score-url]: https://github.com/hirako2000/365things.netlify.app
 
 [repo-size-shield]: https://img.shields.io/github/repo-size/hirako2000/365things?style=for-the-badge
 [repo-size-url]: https://github.com/hirako2000/365things/archive/refs/heads/main.zip
 
-[product-screenshot]: images/screenshot.png
+[product-screenshot]: images/screenshot.jpg

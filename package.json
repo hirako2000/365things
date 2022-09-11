@@ -1,0 +1,41 @@
+{
+  "name": "365things",
+  "version": "0.0.2",
+  "description": "Rolling things",
+  "scripts": {
+    "test": "exit 0",
+    "dev": "parcel ./src/index.html",
+    "build": "parcel build ./src/index.html",
+    "deploy": "surge dist things365.surge.sh",
+    "build-deploy": "npm run build && npm run deploy"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hirako2000/365things.git"
+  },
+  "keywords": [
+    "things",
+    "art",
+    "experience",
+    "challenge"
+  ],
+  "author": "hirako2000",
+  "license": "GPL-2.0-only",
+  "bugs": {
+    "url": "https://github.com/hirako2000/365things/issues"
+  },
+  "homepage": "https://github.com/hirako2000/365things#readme",
+  "devDependencies": {
+    "@parcel/packager-raw-url": "^2.7.0",
+    "@parcel/transformer-raw": "^2.7.0",
+    "@parcel/transformer-sass": "^2.7.0",
+    "@parcel/transformer-webmanifest": "^2.7.0",
+    "parcel": "^2.7.0",
+    "process": "^0.11.10",
+    "surge": "^0.23.1"
+  },
+  "dependencies": {
+    "gsap": "^3.10.4",
+    "scrolltosmooth": "^3.0.2"
+  }
+}

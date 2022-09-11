@@ -131,9 +131,13 @@ These don't media content
 - [x] embed video
 - [x] better layout
 - [x] deploy POC
-- [] make video pause and play uppon scrolling out/in 
-- [] embed audio
-- [] superb layout
+- [ ] make video pause and play uppon scrolling out/in 
+- [ ] embed audio
+- [ ] superb layout
+- [ ] auto deploy upon merges
+- [ ] auto html and css update at midnight
+- [ ] link to creditor of content
+- [ ] submission form
 
 
 ## Contributing

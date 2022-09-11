@@ -1,17 +1,5 @@
 <a name="readme-top"></a>
 
-
-
-<!-- PROJECT SHIELDS -->
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![GPL v2 License][license-shield]][license-url]
-
-
-<a name="readme-top"></a>
-
 <!-- PROJECT SHIELDS -->
 [![Uptime][uptime-shield]][uptime-url]
 [![Contributors][contributors-shield]][contributors-url]
